@@ -9,7 +9,7 @@ Input:  1234+99887
 Output: 101121
 ```
 
-When trained on random expressions of length up to 10, for 15 minutes, the model achieves a digit accuracy of around a 70%.
+When trained on random expressions of length up to 30, for 5 hours, the model achieves a digit accuracy of 99.8%.
 
 ## Citation
 
